@@ -1,1 +1,1 @@
-# pet-2
+# Virtual pet
